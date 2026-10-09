@@ -1,0 +1,6 @@
+.claude/
+.codex/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.env.*
